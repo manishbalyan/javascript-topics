@@ -1,3 +1,5 @@
+// call() apply() and bind() topic
+
 
 // “this” always refers to an object.
 // “this” refers to an object which calls the function it contains.
